@@ -3,5 +3,5 @@ function happyHolidays() {
  return("Happy holidays!")
 }
 
-var name = "Bailey"
+var name = 'Bailey'
 
