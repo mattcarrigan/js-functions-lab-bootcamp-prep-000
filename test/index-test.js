@@ -23,6 +23,7 @@ describe('functions', () => {
     })
   })
 })
+
 /*global describe, it
 
 describe('functions', () => {
